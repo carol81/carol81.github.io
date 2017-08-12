@@ -1,0 +1,25 @@
+li, ul {
+    display: inline;
+}
+
+h1 {
+    border: 2px blue dashed;
+    padding: 15px;
+    margin-bottom: 50px;
+}
+
+img {
+    border: 4pax red solid;
+}
+
+.my.h1{
+    font-size: 3em;
+}
+
+.pink-background{
+    background-color: blue;
+}
+
+.three-d-text{
+    text-shadow: 
+}

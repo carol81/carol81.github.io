@@ -1,0 +1,12 @@
+
+em {
+    font-weight: bold;
+    text-decoration: underline;
+    text-decoration color: black;
+    text-decoration-style: dashed;
+    color: blue;
+}
+
+body {
+    background-image: url(images/hk.jpg);
+}
